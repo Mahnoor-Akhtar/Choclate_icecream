@@ -1,0 +1,1 @@
+import{j as e}from"./index-DoF_lEGx.js";const n=({error:r})=>e.jsx("div",{className:"bg-background min-h-screen flex items-center justify-center p-6",children:e.jsxs("p",{className:"text-cream",children:["Something went wrong: ",r.message]})});export{n as errorComponent};
